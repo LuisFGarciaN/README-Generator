@@ -7,21 +7,39 @@ A Node.js application that gather inpunt form a user to generate a quaity README
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Walkthrough](#walkthrough)
 - [License](#license)
 - [Questions](#questions)
 
 ## Installation
-npm start or node index.js
+- npm i
+- npm start
 
 ## Usage
-No instructions needed.
+
+1. Open Visual Studio Code (VSCode).
+
+2. Navigate to the cloned repository folder.
+
+3. Open the terminal within Visual Studio Code.
+
+4. In the terminal, navigate to the root folder of the cloned repository, where the `package.json` file is located.
+
+5. Run the following command to install the dependencies npm:
+
+npm i
+
+6. Once the dependencies are installed, you can start the application by running the following command in the terminal:
+
+npm start
+
+7. Follow any additional instructions provided in the terminal.
 
 ## Contributing
 [Guidelines](https://www.contributor-covenant.org/version/1/4/code-of-conduct/)
 
-## Tests
-npm start or node index.js
+## Walkthrough
+[Walkthrough](https://drive.google.com/file/d/1oa9pLIgXTHwiHrVFXLhIs8yJBeZrtYQI/view)
 
 ## License
 This project is licensed under the MIT License.
